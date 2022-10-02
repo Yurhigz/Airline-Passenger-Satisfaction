@@ -10,8 +10,8 @@ Your task is to recommend a data-driven strategy for increasing Maven Airlines' 
 I wanted to raise as many questions as possible covering all the different criterias of the data set. Basically I will proceed step by step :
 
 
-    - What is the ratio of satisfied passengers to dissatisfied passengers?</b> This one is basic although it remains essential for further analysis 
-    - What is the satisfaction rate by gender stats?</b> By differentiating the gender I might encounter useful results and eventually consider it as a source of improvement for the future recommendations.
-    - What is the satisfaction rate by customer type of travel and class ?</b> There I will be splitting my results and I could later on focus on what type of class efforts should be made and what kind of travel are most likely required to be worked on
-    - What is the satisfaction rate by flight distance ?</b> There I am going to categorize the travel under 3 categories and use it to increase the granularity of my analysis
-    - Finally, I will also study each features by type of passengers in order to retrieve the factors that affects positively or negatively the customer satisfaction."
+ - What is the ratio of satisfied passengers to dissatisfied passengers?</b> This one is basic although it remains essential for further analysis 
+ - What is the satisfaction rate by gender stats?</b> By differentiating the gender I might encounter useful results and eventually consider it as a source of improvement for the future recommendations.
+ - What is the satisfaction rate by customer type of travel and class ?</b> There I will be splitting my results and I could later on focus on what type of class efforts should be made and what kind of travel are most likely required to be worked on
+ - What is the satisfaction rate by flight distance ?</b> There I am going to categorize the travel under 3 categories and use it to increase the granularity of my analysis
+ - Finally, I will also study each features by type of passengers in order to retrieve the factors that affects positively or negatively the customer satisfaction."
